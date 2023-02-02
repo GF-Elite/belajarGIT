@@ -1,0 +1,13 @@
+# These are supported funding model platforms
+
+github: [GF-Elite]
+patreon: [GF-Elite]
+open_collective: [GF-Elite][GF-Elite]
+ko_fi: [GF-Elite]
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: [GF-Elite]
+issuehunt:[GF-Elite]
+otechie:[GF-Elite]
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+custom:  ['https://gf-elite.github.io/']
